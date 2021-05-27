@@ -14,4 +14,5 @@ My TDD approach for it would be:
 6. Create code that moves the photo over to the database and validates it
 7. Create code that validates that it is available on the home pages of all users' followers
 
-
+# GitHub Repo with Code
+[362 HW7 Repo](https://github.com/megan-black/362-hw7)
